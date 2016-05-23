@@ -1,6 +1,11 @@
 # Contact-Symfony2-PHP
 Carnet d'adresse en ligne sous synfony2 en PHP
 
+==
+
+A Symfony project created on May 23, 2016, 1:23 pm.
+
+
 Consigne:
 L'objectif est de simuler un petit carnet d'adresses en ligne sous symfony2.
 ·  Identification (Inscription/Connexion/Déconnexion) de l'utilisateur par login/mot de passe (FOSUserbundle).
