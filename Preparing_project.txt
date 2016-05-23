@@ -1,0 +1,14 @@
+ Preparing project...
+
+ ✔  Symfony 2.8.6 was successfully installed. Now you can:
+
+    * Change your current directory to /home/force_kevin/Rendu/Contact-Symfony2-PHP/my
+
+    * Configure your application in app/config/parameters.yml file.
+
+    * Run your application:
+            1. Execute the php app/console server:run command.
+	            2. Browse to the http://localhost:8000 URL.
+
+    * Read the documentation at http://symfony.com/doc
+    
